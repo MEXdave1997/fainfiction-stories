@@ -1,6 +1,6 @@
 # Stories Repository
 
-Just a little repo for my Fanfictions, turned into ebooks for offline reading on an e-reader, phone, etc. Built using [LaTeX][1] and [VS-Code][2].
+Just a little repo for my Fanfictions, turned into ebooks for offline reading on an e-reader, phone, etc. Built using [LaTeX][1] and [Visual Studio Code][2].
 
 I will include my workspace settings for easy building within the Editor
 
